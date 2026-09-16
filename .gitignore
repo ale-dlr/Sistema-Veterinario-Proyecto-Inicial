@@ -427,3 +427,9 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# BlueJ y Draw.io extra
+*.class
+project.dep
+project.lck
+*~
