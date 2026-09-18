@@ -36,26 +36,21 @@ El simulador interactivo ofrece las siguientes opciones en consola:
 
 ---
 
-## 🚀 Cómo Ejecutar el Proyecto en BlueJ
+## 🚀 Cómo Ejecutar el Proyecto
 
+### Opción A: En Visual Studio (C#)
+1. Abre **Visual Studio** y crea un nuevo proyecto de tipo **Aplicación de consola** (.NET Core o .NET Framework).
+2. Asegúrate de que el espacio de nombres (*namespace*) sea `SistemaVeterinario`.
+3. Pega el código fuente original en el archivo `Program.cs`.
+4. Haz clic en el botón verde **Iniciar** (o presiona la tecla `F5`) para compilar y abrir la consola interactiva.
+
+### Opción B: En BlueJ (Java)
 1. Abre **BlueJ** y crea un nuevo proyecto llamado `SistemaVeterinario`.
 2. Crea las clases en el siguiente orden para evitar errores de compilación por dependencias:
    * `Persona`
    * `Consulta`
    * `Tutor` (extiende de `Persona`)
    * `Paciente`
-   * `SistemaVeterinario` (Clase principal)
+   * `SistemaVeterinario` (Clase principal con el menú)
 3. Pega el código fuente correspondiente en cada clase y haz clic en **Compilar**.
 4. Haz clic derecho sobre la clase **`SistemaVeterinario`**, selecciona `void main(String[] args)` y presiona Aceptar para iniciar la consola interactiva.
-
----
-
-## 🎥 Demostración del Sistema
-*(Pronto podrás ver aquí una vista previa en GIF o video del sistema corriendo en la consola de BlueJ)*
-
-```markdown
-<!-- Opcional: Si subes un GIF a tu repositorio, puedes descomentar y ajustar esta línea:
-<p align="center">
-  <img src="assets/demo-veterinaria.gif" alt="Demostración del Sistema Veterinario" width="650">
-</p>
--->
