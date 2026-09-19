@@ -54,3 +54,7 @@ El simulador interactivo ofrece las siguientes opciones en consola:
    * `SistemaVeterinario` (Clase principal con el menú)
 3. Pega el código fuente correspondiente en cada clase y haz clic en **Compilar**.
 4. Haz clic derecho sobre la clase **`SistemaVeterinario`**, selecciona `void main(String[] args)` y presiona Aceptar para iniciar la consola interactiva.
+
+## 📺 Video Explicativo (C#)
+
+[![Video Explicativo - Sistema Veterinario en C#](https://img.youtube.com/vi/HC0Z9gEyAxQ/hqdefault.jpg)](https://youtu.be/HC0Z9gEyAxQ)
